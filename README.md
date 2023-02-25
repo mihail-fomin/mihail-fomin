@@ -19,3 +19,4 @@
 - [ ] Освоить серверный рендеринг (SSR) на Next.js
 - [ ] Начать изучение Typescript
 - [ ] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
+- [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
