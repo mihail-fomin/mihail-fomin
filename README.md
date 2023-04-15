@@ -6,10 +6,12 @@
 Владею Английским языком на уровне Upper Intermediate (B2). Люблю решать интересные задачи и получаю моральное удовлетвориение когда преуспеваю в этом.
 
 ## Достигнутые успехи в 2022 году:
-- [x] Изучены основы JS, React
+- [x] Изучены основы HTML, CSS, JS
+- [x] Изучены основы React
 - [x] Успехи в алгоритмах (6 kyu на [codewars](https://www.codewars.com/users/misha133kv))
 - [x] Освоены основные операции в Git: commit, push, pull, merge
-- [x] Освоен CSS препроцессор SASS
+- [x] Освоен CSS препроцессор SASS/Less
+- [x] Освоен CSS-framework tailwindcss
 - [x] Разработан интернет-магазин сладостей http://marygreatcookie.ru/
 
 ## Цели и задачи на 2023 год:
