@@ -15,11 +15,11 @@
 - [x] Разработан интернет-магазин сладостей http://marygreatcookie.ru/
 
 ## Цели и задачи на 2023 год:
-- [ ] Углубление в асинхронный JS: упражнения на callbacks, promises, async-await
+- [x] Углубление в асинхронный JS: упражнения на callbacks, promises
 - [ ] Углубление в браузерные API: DOM, Fetch, Local Storage, Clipboard API, History API
 - [ ] Углубление в фукциональный React
 - [ ] Освоить серверный рендеринг (SSR) на Next.js
 - [ ] Освоить State management на Redux
 - [ ] Изучить Typescript
-- [ ] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
+- [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
 - [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
