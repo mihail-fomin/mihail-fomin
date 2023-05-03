@@ -19,7 +19,7 @@
 - [ ] Углубление в браузерные API: DOM, Fetch, Local Storage, Clipboard API, History API
 - [x] Углубление в фукциональный React
 - [ ] Освоить серверный рендеринг (SSR) на Next.js
-- [ ] Освоить State management на Redux
+- [ ] Освоить State management на Redux, Redux Toolkit
 - [ ] Изучить Typescript
 - [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
 - [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
