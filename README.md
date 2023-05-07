@@ -14,7 +14,7 @@
 - [x] Освоен CSS-framework tailwindcss
 - [x] Разработан интернет-магазин сладостей http://marygreatcookie.ru/
 
-## Цели и задачи на 2023 год:
+## Задачи на 2023 год:
 - [x] Углубление в асинхронный JS: упражнения на callbacks, promises
 - [ ] Углубление в браузерные API: DOM, Fetch, Local Storage, Clipboard API, History API
 - [x] Углубление в фукциональный React
