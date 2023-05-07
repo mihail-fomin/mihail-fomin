@@ -17,7 +17,7 @@
 ## Задачи на 2023 год:
 - [x] Углубление в асинхронный JS: упражнения на callbacks, promises
 - [ ] Углубление в браузерные API: DOM, Fetch, Local Storage, Clipboard API, History API
-- [x] Углубление в фукциональный React
+- [x] Углубление в React
 - [ ] Освоить серверный рендеринг (SSR) на Next.js
 - [ ] Освоить State management на Redux, Redux Toolkit
 - [ ] Изучить Typescript
