@@ -16,10 +16,10 @@
 
 ## Задачи на 2023 год:
 - [x] Углубление в асинхронный JS: упражнения на callbacks, promises
-- [ ] Углубление в браузерные API: DOM, Fetch, Local Storage, Clipboard API, History API
+- [x] Углубление в браузерные API: DOM, Fetch, Local Storage
 - [x] Углубление в React
 - [ ] Освоить серверный рендеринг (SSR) на Next.js
-- [ ] Освоить State management на Redux, Redux Toolkit
+- [x] Освоить State management на Redux, Redux Toolkit
 - [ ] Изучить Typescript
 - [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
 - [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
