@@ -20,6 +20,6 @@
 - [x] Углубление в React
 - [ ] Освоить серверный рендеринг (SSR) на Next.js
 - [x] Освоить State management на Redux, Redux Toolkit
-- [ ] Изучить Typescript.
+- [ ] Изучить Typescript
 - [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
 - [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
