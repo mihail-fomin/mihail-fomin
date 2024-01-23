@@ -18,8 +18,9 @@
 - [x] Освоить серверный рендеринг (SSR) на Next.js
 - [x] Освоить State management на Redux, Redux Toolkit
 - [x] Начать писать компоненты на TypeScript
-- [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
+- [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/ - был переписан бэкенд с использованием Typescript, Express, PostgreSQL, а также переписан фронт с навтивного js + jQuery на React + Redux ToolKit, RTK Query
 - [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
 
 ## Задачи на 2024 год:
+- [ ] Попрактиковать язык запросов GraphQL
 - [ ] Попрактиковать язык запросов GraphQL
