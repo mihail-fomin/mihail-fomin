@@ -15,8 +15,11 @@
 - [x] Углубление в асинхронный JS: упражнения на callbacks, promises
 - [x] Углубление в браузерные API: DOM, Fetch, Local Storage, Event loop
 - [x] Углубление в React
-- [ ] Освоить серверный рендеринг (SSR) на Next.js
+- [x] Освоить серверный рендеринг (SSR) на Next.js
 - [x] Освоить State management на Redux, Redux Toolkit
-- [ ] Изучить Typescript
+- [x] Начать писать компоненты на TypeScript
 - [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/
 - [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
+
+## Задачи на 2024 год:
+- [ ] Попрактиковать язык запросов GraphQL
