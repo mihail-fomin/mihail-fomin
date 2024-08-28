@@ -15,7 +15,7 @@
 - [x] Углубление в асинхронный JS: упражнения на callbacks, promises
 - [x] Углубление в браузерные API: DOM, Fetch, Local Storage, Event loop
 - [x] Углубление в React
-- [x] Освоить серверный рендеринг (SSR) на Next.js
+- [x] Освоить серверный рендеринг (SSR, SSG) на Next.js
 - [x] Освоить State management на Redux, Redux Toolkit
 - [x] Начать писать компоненты на TypeScript
 - [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/ - был переписан бэкенд с использованием Typescript, Express, PostgreSQL, а также переписан фронт с навтивного js + jQuery на React + Redux ToolKit, RTK Query
@@ -23,3 +23,4 @@
 
 ## Задачи на 2024 год:
 - [ ] Попрактиковать язык запросов GraphQL
+- [ ] Практика написания fullstack мобильных приложений на React Native, Nest.js
