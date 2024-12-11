@@ -9,7 +9,7 @@
 - [x] Освоены основные операции в Git: commit, push, pull, merge
 - [x] Освоен CSS препроцессор SASS/Less
 - [x] Освоен CSS-framework tailwindcss
-- [x] Разработан интернет-магазин сладостей http://marygreatcookie.ru/
+- [x] Разработан интернет-магазин сладостей [интернет-магазин](https://github.com/mihail-fomin/chocolate-covered)
 
 ## Задачи на 2023 год:
 - [x] Углубление в асинхронный JS: упражнения на callbacks, promises
@@ -18,17 +18,17 @@
 - [x] Освоить серверный рендеринг (SSR, SSG) на Next.js
 - [x] Освоить State management на Redux, Redux Toolkit
 - [x] Начать писать компоненты на TypeScript
-- [x] Усовершенствовать интернет-магазин http://marygreatcookie.ru/ - был переписан бэкенд с использованием Typescript, Express, PostgreSQL, а также переписан фронт с навтивного js + jQuery на React + Redux ToolKit, RTK Query
+- [x] Усовершенствовать [интернет-магазин](https://github.com/mihail-fomin/chocolate-covered) - был переписан бэкенд с использованием Typescript, Express, PostgreSQL, а также переписан фронт с навтивного js + jQuery на React + Redux ToolKit, RTK Query
 - [ ] Усовершенствовать навыки в алогоритмах (достичь как минимум 4 kyu на [codewars](https://www.codewars.com/users/misha133kv))
 
 ## Задачи на 2024 год:
+- [x] Усовершенствовать [интернет-магазин](https://github.com/mihail-fomin/chocolate-covered) - был переписан c нуля на фуллстек Next.js с БД на MongoDB, использованием Telegram API для контакта с продацом.
 - [ ] Попрактиковать язык запросов GraphQL
-- [ ] Практика написания fullstack мобильных приложений на React Native, Nest.js
-- [ ] Практика написания Unit-тестов на Jest, Vitest
-- [ ] Углубиться в работу с Docker для контейнеризации приложений
-- [ ] Изучить CI/CD процессы и настроить автоматизированные пайплайны с использованием GitHub Actions или GitLab CI
-- [ ] Изучить и внедрить архитектурные паттерны, такие как Microservices и Event-Driven Architecture
+- [x] Практика написания fullstack мобильных приложений на React Native, Nest.js
+- [x] Практика написания Unit-тестов на Jest, Vitest
+- [x] Углубиться в работу с Docker для контейнеризации приложений
+- [x] Изучить CI/CD процессы и настроить автоматизированные пайплайны с использованием GitHub Actions или GitLab CI
 - [ ] Освоить работу с облачными платформами (например, AWS, GCP) для деплоя и масштабирования приложений
 - [ ] Углубиться в Web Security: изучить основы защиты веб-приложений, такие как OWASP, и внедрить соответствующие меры безопасности в мои действующие приложения
-- [ ] Улучшить навыки работы с алгоритмами и структурами данных на LeetCode
+- [x] Улучшить навыки работы с алгоритмами и структурами данных на LeetCode
 - [ ] Начать вести технический блог или участвовать в open-source проектах для обмена знаниями и опыта
